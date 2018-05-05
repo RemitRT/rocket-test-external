@@ -24,7 +24,7 @@
 
 ## Then:
 
-4. Open the terminal / console and Initialize the project using GIT; then clone the project using below command: git clone https://rshayda_remit@bitbucket.org/rshayda_remit/wap-gui-test.git
+4. Open the terminal / console and Initialize the project using GIT; then clone the project using below command: git clone ${repo_url_here}
 
 5. Once the project is cloned successfully, open the terminal and navigate to the project root directory.
 6. And run the following command to start the tests:
